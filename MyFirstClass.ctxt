@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MyFirstClass
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyFirstClass\ here.\r\n\ \r\n\ @author\ Lydia\ Cheah\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ begin()
+comment2.params=point
+comment2.target=void\ onMousePress(objectdraw.Location)
+comment3.params=point
+comment3.target=void\ onMouseRelease(objectdraw.Location)
+comment4.params=point
+comment4.target=void\ onMouseClick(objectdraw.Location)
+comment5.params=point
+comment5.target=void\ onMouseDrag(objectdraw.Location)
+numComments=6
